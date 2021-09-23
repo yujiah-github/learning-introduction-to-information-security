@@ -1,1 +1,1 @@
-# learning-introduction-to-information-security
+## 정보보호개론 수업을 듣고 필기한 것을 md 파일로 변환 후, 업로드 하였습니다.
